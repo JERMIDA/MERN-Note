@@ -10,11 +10,11 @@ const noteSchema =new mongoose.Schema(
         required:true
     },
     content:{
-         type:String,
+        type:String,
         required:true
              }
     },
-    {timeStamps:true}
+    {timestamps:true}
 );
 
 const Note =mongoose.model("Note",noteSchema);
