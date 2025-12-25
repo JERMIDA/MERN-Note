@@ -15,7 +15,7 @@ const RateLimitedUI = () => {
             </p>
             <p className="text-sm text-base-content/70">
               Try again in a few seconds for the best experience.
-            </p>
+            </p> 
           </div>
         </div>
       </div>

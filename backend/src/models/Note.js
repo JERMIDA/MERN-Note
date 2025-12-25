@@ -1,7 +1,7 @@
 import mongoose from "mongoose"
 
 //create a schema
-//mode based of that schema
+//model based of that schema
 
 const noteSchema =new mongoose.Schema(
     {
