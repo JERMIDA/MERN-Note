@@ -1,4 +1,4 @@
-# MERN ThinkBoard
+# MERN Note -App
 
 A full-stack note-taking application built with the MERN stack. It features a responsive UI, a robust REST API, and real-world concepts like rate limiting using Upstash Redis.
 
